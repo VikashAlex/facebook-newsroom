@@ -10,8 +10,8 @@
 
 ## 📂 Project Details:
 - **Technologies Used:** HTML, CSS  
-- **Author:** [Your Name]  
-- **Live Demo:** [Deployment Link] (If applicable)  
-- **GitHub Repository:** [Repo Link]  
+- **Author:** Vikash Kumar  
+- **Live Demo:** https://vikashalex.github.io/facebook-newsroom/  
+- **GitHub Repository:** https://github.com/VikashAlex/facebook-newsroom.git  
 
 👨‍💻 Feel free to explore the code and suggest improvements!  
